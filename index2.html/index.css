@@ -1,0 +1,162 @@
+section{
+    min-height: 80vh;
+    background-color: rgb(3, 3, 40);
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-image-repeat: none;
+  border-radius: 40px;
+    
+  }
+  .nav{
+    margin-left: 80px;
+    padding-top: 30px;
+    color: white;
+    font-size: larger;
+  }
+  .line .one{
+    margin-left: 800px;
+    margin-top: -40px;
+    color: white;
+
+  }
+  .line .two{
+    margin-left: 900px;
+    margin-top: -45px;
+    color: white;
+
+  }
+  .line .three{
+    margin-left: 1000px;
+    margin-top: -45px;
+    color: white;
+
+  }
+  .line .four{
+    margin-left: 1100px;
+    margin-top: -45px;
+    color: white;
+
+  }
+  .banner{
+    
+    margin-left: 70px;
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    margin-right: 760px;
+    margin-top: -300px;
+    
+  }
+  .banner p{
+    padding-top: 20px;
+    padding: (10px 10px);
+  }
+  button{
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-right: 250px;
+    
+  }
+  .banner h1{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: left;
+  }
+  .footer{
+    background: none;
+  }
+  .copy{
+    width: 300px;
+    background-color:rgb(222, 106, 85);
+    height: 200px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 30px;
+    font-weight: 500;
+    color: rgb(11, 226, 226);
+    border-radius: 10px;
+    padding-top: 50px;
+   
+  }
+  .paste{
+    width: 300px;
+    background-color:rgb(102, 127, 187);
+    height: 200px;
+    margin-left: 350px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 30px;
+    font-weight: 500;
+    color: rgb(16, 181, 181);
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-top: -250px;
+  }
+  .cut{
+    width: 300px;
+    background-color:rgb(129, 219, 125);
+    height: 200px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 30px;
+    font-weight: 500;
+    color: rgb(22, 160, 160);
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-left:670px;
+    margin-top: -250px;
+  }
+  .stick{
+    width: 300px;
+    background-color:rgb(222, 139, 208);
+    height: 200px;
+    margin-left: 1000px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 30px;
+    font-weight: 500;
+    color: rgb(37, 157, 157);
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-top: -250px;
+  }
+  .pc{
+    margin-left: 800px;
+   padding-top: 100px;
+   border-radius: 50px;
+  
+  }
+  img{
+    border-radius: 30px;
+  }
+  .end{
+    background-color: rgb(3, 3, 40) ;
+    height: 150px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+  .end h2{
+    color: rgb(37, 157, 157);
+  }
+  
+  .banner p{
+    padding-right: 230px;
+  }
+  .footer{
+    margin-left: 80px;
+  }
+.footer .main{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(9, 104, 104);
+  }
+
+  
